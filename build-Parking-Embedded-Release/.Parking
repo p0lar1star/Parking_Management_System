@@ -1,0 +1,10 @@
+INPUT(
+./main.obj
+./Widget.obj
+./RFIDChannelMan.obj
+./IEEE14443Package.obj
+./IEEE14443Control.obj
+./moc_Widget.obj
+./moc_RFIDChannelMan.obj
+./moc_IEEE14443Control.obj
+);
