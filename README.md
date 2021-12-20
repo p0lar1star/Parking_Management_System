@@ -12,4 +12,4 @@ Reader process:
 
 Demo screenshot:
 
-![image-20211221031035970](README.assets/image-20211221031035970.png)
+![image-20211221031035970](README.assets/demo.png)
